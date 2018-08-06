@@ -4,5 +4,5 @@ print("Creating a new user")
 --#ENDPOINT GET /api/user/{userId}
 print("Fetch a given user" .. request.parameters.userId)
 
---#ENDPOINT GET /test
-return Config.getParameters({service="twilio"})
+--#ENDPOINT GET /test/{service}
+return Config.getParameters({service=requets.parameters.service})
