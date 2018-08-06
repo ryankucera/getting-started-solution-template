@@ -1,2 +1,3 @@
-- Account_SID
-  - test
+ServiceInfo:
+  parameters:
+    - Account_SID: test
