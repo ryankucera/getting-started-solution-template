@@ -1,4 +1,5 @@
-AccountSid:
-  value: 1234567890123456789012345678901234
-AuthToken:
-  value: 123456789
+something:
+  AccountSid:
+    value: 1234567890123456789012345678901234
+  AuthToken:
+    value: 123456789
