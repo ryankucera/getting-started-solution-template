@@ -1,5 +1,5 @@
 ---
-_Username: testname
-_Password: userpass
-_Database: database1
-_Hostname: localhost 
+Username: testname
+Password: userpass
+Database: database1
+Hostname: localhost 
