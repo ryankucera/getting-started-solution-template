@@ -5,4 +5,4 @@ print("Creating a new user")
 print("Fetch a given user" .. request.parameters.userId)
 
 --#ENDPOINT GET /test/{service}
-return Config.getParameters({service=requets.parameters.service})
+return Config.getParameters({service=request.parameters.service})
