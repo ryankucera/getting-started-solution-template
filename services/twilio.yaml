@@ -1,7 +1,5 @@
 --- 
 AccountSid:
-  name: Account SID
   value: 1234567890123456789012345678901234
 AuthToken:
-  name: Auth Token
   value: 123456789
