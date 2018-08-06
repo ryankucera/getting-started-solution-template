@@ -1,4 +1,3 @@
-serviceInfo:
-  parameters:
-    - AccountSid: 12345678901234567890123456789012
-      AuthToken: 123456789
+parameters:
+  - AccountSid: 12345678901234567890123456789012
+    AuthToken: 123456789
